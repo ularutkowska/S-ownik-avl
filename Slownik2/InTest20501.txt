@@ -1,0 +1,4 @@
+book książka
+pen pióro
+hat kapelusz
+shoe but
